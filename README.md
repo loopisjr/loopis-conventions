@@ -30,16 +30,22 @@ closes issue #12
 - revert: Reversão de um commit
 - config: Configurações de dependências do projeto (bancos de dados, rotas, serviços externos)
 
-A única excessão é o primeiro commit que deve ser "Commit inicial"
+A única exceção é o primeiro commit, que deve ser "Commit inicial"
 
-## Branches
+## Versionamento
 
-Tag de versionamento: v. 1.0.0
+Ao criar uma nova tag de versão deve seguir o formato  MAJOR.MINOR.PATCH
+
+Exemplos: v. 1.0.0, v. 2.1.3
 
 - Major: Atualizada quando gera incompatibilidade com versões anteriores 
 - Minor: Atualizada quando uma nova funcionalidade é incorporada a última versão
 - Patch: Atualizado quando um bug é corrigido, ou outra alteração menor
 
+## Padrão de branches
+O padrão a ser seguido ao criar uma nova branch é informar o tipo entre: feature, fix e release.
+
+Merges com a Master devem sempre ser feitos através de pull requests.
 ```
 Master
 │   ├── feature/FeatureName
@@ -49,12 +55,14 @@ Master
 ```
 
 ## Funções
-De maneira geral todos os nomes de funções em qualquer projeto deve ser escrita em inglês, seguindo as demais convenções da linguagem.
+De maneira geral todos os nomes de funções em qualquer projeto devem ser escritos em inglês, seguindo as demais convenções da linguagem.
 
 - Funções que lidam com eventos devem conter informações do tipo de evento e a ação. EX: handleRegister(), handleSubmit().
 - Funções que retornam booleano  devem começar com ‘is’ seguido da característica que a função verifica. EX: isInteger(), isEmpty(), isStaff().
 
 ## Padrões de pastas
+
+A seguir os detalhes de como as pastas de projetos devem ser organizadas
 
 ### Node
 
