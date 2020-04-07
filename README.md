@@ -42,8 +42,11 @@ Exemplos: v. 1.0.0, v. 2.1.3
 - Minor: Atualizada quando uma nova funcionalidade é incorporada a última versão
 - Patch: Atualizado quando um bug é corrigido, ou outra alteração menor
 
+
 ## Padrão de branches
 O padrão a ser seguido ao criar uma nova branch é informar o tipo entre: feature, fix e release.
+
+O nome da branch deve ser definido com base no nome do projeto, o identificador da issue ao qual ela se refere e a funcionalide que ela irá implementar. Por exemplo, em um projeto chamado Ouvidoria Colégio Polivalente, que tenha uma issue de id 4 descrevendo a necessidade de que o sistema cadastre informações de funcionários, geraria uma branch "feature/OCP-04-Cadastrar-Funcionarios".
 
 Merges com a Master devem sempre ser feitos através de pull requests.
 ```
