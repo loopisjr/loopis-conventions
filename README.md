@@ -26,9 +26,7 @@ closes issue #12
 - refactor: Mudança de código que não adiciona funcionalidade ou arruma um erro
 - test: Novos testes ou correção de antigos
 - build: Mudanças que afetam o build ou dependências externas (yarn, npm, mvn)
-- env: Mudanças referentes ao ambiente do projeto (variáveis de ambiente, docker)
-- revert: Reversão de um commit
-- config: Configurações de dependências do projeto (bancos de dados, rotas, serviços externos)
+- env: Mudanças referentes ao ambiente e as dependências do projeto (variáveis de ambiente, docker, bancos de dados, rotas)
 
 A única exceção é o primeiro commit, que deve ser "Commit inicial"
 
