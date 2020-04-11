@@ -68,3 +68,4 @@ A seguir os detalhes de como as pastas de projetos devem ser organizadas
 - [Node](https://github.com/loopisjr/loopis-conventions/blob/master/node.md)
 - [React](https://github.com/loopisjr/loopis-conventions/blob/master/react.md)
 - [React Native](https://github.com/loopisjr/loopis-conventions/blob/master/react-native.md)
+- [Estáticos](https://github.com/loopisjr/loopis-conventions/blob/master/static.md)
