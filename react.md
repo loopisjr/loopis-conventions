@@ -9,10 +9,16 @@ Project
 │   ├── App.js
 │   ├── Routes.js
 │   ├── pages
-│   │   └── Login
-│   │   │   └── index.js
-│   │   │   └── style.css
-│   │   │   └── components (optional) 
+│   │   └── Users
+│   │   │   └── Form
+│   │   │   │   └── index.js
+│   │   │   │   └── style.css
+│   │   │   │   └── components (optional) 
+│   │   │   └── List
+│   │   │   │   └── index.js
+│   │   │   │   └── style.css
+│   │   │   │   └── components (optional) 
+│   │   │   └── ...
 │   │   └── ...
 │   ├── services
 │   │   └── api.js
