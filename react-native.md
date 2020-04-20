@@ -8,10 +8,16 @@
 │   ├── App.js
 │   ├── Routes.js
 │   ├── pages
-│   │   └── Login
-│   │   │   └── index.js
-│   │   │   └── style.css
-│   │   │   └── components (optional) 
+│   │   └── Users
+│   │   │   └── Auth
+│   │   │   │   └── index.js
+│   │   │   │   └── style.css
+│   │   │   │   └── components (optional) 
+│   │   │   └── Update
+│   │   │   │   └── index.js
+│   │   │   │   └── style.css
+│   │   │   │   └── components (optional) 
+│   │   │   └── ...
 │   │   └── ...
 │   ├── services
 │   │   └── api.js
