@@ -11,11 +11,11 @@
 │   │   └── Users
 │   │   │   └── Auth
 │   │   │   │   └── index.js
-│   │   │   │   └── style.js
+│   │   │   │   └── styles.js
 │   │   │   │   └── components (optional) 
 │   │   │   └── Update
 │   │   │   │   └── index.js
-│   │   │   │   └── style.js
+│   │   │   │   └── styles.js
 │   │   │   │   └── components (optional) 
 │   │   │   └── ...
 │   │   └── ...
