@@ -6,16 +6,16 @@
  Project
 ├── src
 │   ├── App.js
-│   ├── Routes.js
+│   ├── routes.js
 │   ├── pages
 │   │   └── Users
 │   │   │   └── Auth
 │   │   │   │   └── index.js
-│   │   │   │   └── style.css
+│   │   │   │   └── style.js
 │   │   │   │   └── components (optional) 
 │   │   │   └── Update
 │   │   │   │   └── index.js
-│   │   │   │   └── style.css
+│   │   │   │   └── style.js
 │   │   │   │   └── components (optional) 
 │   │   │   └── ...
 │   │   └── ...
