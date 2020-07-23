@@ -3,7 +3,7 @@
 ## Começando
 ```sh
 # Instale a cli do commitlint
-npm install @commitlint --save-dev
+npm install @commitlint/cli --save-dev
 
 # Instale as regras da loopis
 npm install loopis-conventions --save-dev
