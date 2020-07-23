@@ -65,7 +65,7 @@ De maneira geral todos os nomes de funções em qualquer projeto devem ser escri
 
 A seguir os detalhes de como as pastas de projetos devem ser organizadas
 
-- [Node](https://github.com/loopisjr/loopis-conventions/blob/master/node.md)
-- [React](https://github.com/loopisjr/loopis-conventions/blob/master/react.md)
-- [React Native](https://github.com/loopisjr/loopis-conventions/blob/master/react-native.md)
-- [Estáticos](https://github.com/loopisjr/loopis-conventions/blob/master/static.md)
+- [Node](https://github.com/loopisjr/loopis-conventions/blob/master/info/project-structure/node.md)
+- [React](https://github.com/loopisjr/loopis-conventions/blob/master/info/project-structure/react.md)
+- [React Native](https://github.com/loopisjr/loopis-conventions/blob/master/info/project-structure/react-native.md)
+- [Estáticos](https://github.com/loopisjr/loopis-conventions/blob/master/info/project-structure/static.md)
