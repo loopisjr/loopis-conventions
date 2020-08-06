@@ -25,7 +25,8 @@ module.exports = {
 				'refactor',
                 'test',
                 'env',
-                'view'
+				'view',
+				'docs'
 			]
 		]
 	}

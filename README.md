@@ -9,7 +9,7 @@ npm install @commitlint/cli --save-dev
 npm install loopis-conventions --save-dev
 
 # Configure commitlint para usar as configurações da loopis
-echo "module.exports = {extends: ['../../loopis-conventions']};" > commitlint.config.js
+echo "module.exports = {extends: ['./node_modules/loopis-conventions']};" > commitlint.config.js
 
 # Instale o husky
 npm install husky --save-dev
