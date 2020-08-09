@@ -1,5 +1,7 @@
 # Loopis Conventions
 
+A documentação das conveções da loopis podem ser encontradas [aqui](https://github.com/loopisjr/loopis-conventions/wiki).
+
 ## Começando
 ```sh
 # Instale a cli do commitlint
